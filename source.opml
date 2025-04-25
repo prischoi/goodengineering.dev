@@ -191,6 +191,7 @@
       <outline type="rss" text="Postmates" title="Postmates" xmlUrl="https://medium.com/feed/postmates-blog/tagged/engineering" htmlUrl="https://blog.postmates.com/tagged/engineering"/>
       <outline type="rss" text="Prezi" title="Prezi" xmlUrl="https://engineering.prezi.com/feed" htmlUrl="https://medium.com/prezi-engineering"/>
       <outline type="rss" text="PullReview" title="PullReview" xmlUrl="http://blog.8thcolor.com/feed.xml" htmlUrl="http://blog.8thcolor.com/"/>
+      <outline type="rss" text="Pulumi" title="Pulumi" xmlUrl="https://www.pulumi.com/blog/rss.xml" htmlUrl="https://www.pulumi.com/blog/"/> 
       <outline type="rss" text="Pusher" title="Pusher" xmlUrl="https://making.pusher.com/feed.xml" htmlUrl="https://making.pusher.com/"/>
       <outline type="rss" text="Raizlabs" title="Raizlabs" xmlUrl="https://www.raizlabs.com/dev/feed/" htmlUrl="https://www.raizlabs.com/dev/"/>
       <outline type="rss" text="RapidAPI" title="RapidAPI" xmlUrl="https://blog.rapidapi.com/feed/" htmlUrl="http://blog.rapidapi.com/"/>
